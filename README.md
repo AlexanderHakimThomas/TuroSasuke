@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TuroSasuke
+- 👋 Hi, I’m Alex @TuroSasuke
 - 👀 I’m interested in Cloud Platforms, Software Engineering & Artficial Intelligence
 - 🌱 I’m currently building my own portfolio through projects that interest me
 - 💞️ I’m looking to collaborate on on projects with a purpose to benefit the furture of a company and technologhy
